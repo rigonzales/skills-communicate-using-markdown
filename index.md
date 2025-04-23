@@ -7,3 +7,9 @@ Here is an image of a cat
 ```python
 print("Hello World")
 ```
+
+Here is a list:  
+- [x] Done1
+- [x] Done2
+- [ ] Done3
+
